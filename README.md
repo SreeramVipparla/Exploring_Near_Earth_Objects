@@ -2,7 +2,7 @@
 ## Overview
 
 <a href="Near Earth Objects"  >
-<img src="https://user-images.githubusercontent.com/86887626/134783409-ae4c60e8-3e43-4c0e-a9fa-7c9fc4bb4d51.jpg"  width="700" height="300"/>
+<img src="https://user-images.githubusercontent.com/86887626/134783409-ae4c60e8-3e43-4c0e-a9fa-7c9fc4bb4d51.jpg"  width="1000" height="250"/>
 
 ## Introduction
   
