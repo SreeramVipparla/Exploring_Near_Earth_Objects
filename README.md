@@ -6,7 +6,7 @@
 
 ## Introduction
   
-In this project I have developed a program that can inspect and query close approaches of Near-Earth-Objects moments in the past (or future) at which an asteroid (or comet-like object in space) passes quite close to Earth. There is over 200 years of data from CSV and JSON files into Python models. This project also involves a database capable of answering questions such as “when does Halley’s comet pass by Earth?” and “what are the next ten close approaches of big, hazardous asteroids whose orbit takes them exceptionally close to Earth.” Finally, this project allows the user to save the results back to CSV or JSON files. This project  demonstrates an ability to represent data in Python, transform that data using principles of function and object-based design, and connect to external data sources.
+In this project I have developed a program that can inspect and query close approaches of Near-Earth-Objects moments in the past (or future) at which an asteroid (or comet-like object in space) passes quite close to Earth using Python. There is over 200 years of data from CSV and JSON files into Python models. This project also involves a database capable of answering questions such as “when does Halley’s comet pass by Earth?” and “what are the next ten close approaches of big, hazardous asteroids whose orbit takes them exceptionally close to Earth.” Finally, this project allows the user to save the results back to CSV or JSON files. This project  demonstrates an ability to represent data in Python, transform that data using principles of function and object-based design, and connect to external data sources.
 
 ## Understanding the Near-Earth Object Close Approach Datasets
 
